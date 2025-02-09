@@ -1,0 +1,14 @@
+{
+  "name": "comp-vote-relayer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Arr00 <13561405+arr00@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dot-vote-relayer": "https://github.com/arr00/dot-vote-relayer.git#feat/oz-governor",
+    "dotenv": "^16.4.7"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
