@@ -5,7 +5,7 @@
   "author": "Arr00 <13561405+arr00@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
-    "dot-vote-relayer": "^3.0.0",
+    "dot-vote-relayer": "^3.0.1",
     "dotenv": "^16.4.7"
   },
   "scripts": {
